@@ -1,7 +1,7 @@
 const { name } = require('ejs');
 const express = require('express');
  const createError = require('http-errors');
- var path = require("path");
+ const path = require("path");
 const app = express();
 const port = 3000;
 
